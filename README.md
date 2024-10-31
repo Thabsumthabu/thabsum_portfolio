@@ -1,4 +1,4 @@
-## Shyam_portfolio
+## thabsum_portfolio
 ## Personal Portfolio Website
 
 This is a personal portfolio website showcasing the work and skills of a front-end developer and student. The portfolio is built using HTML, SCSS, JavaScript, and Bootstrap, providing an interactive and visually appealing user experience.
